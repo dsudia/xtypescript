@@ -1,4 +1,4 @@
-# xTypeScript [![Build Status](https://travis-ci.org/exercism/xtypescript.svg?branch=master)](https://travis-ci.org/exercism/xtypescript)
+# TypeScript [![Build Status](https://travis-ci.org/exercism/typescript.svg?branch=master)](https://travis-ci.org/exercism/typescript)
 
 Exercism exercises in TypeScript
 
@@ -34,6 +34,6 @@ There are some utility methods in the `Makefile` to help with development. The b
 	
 ## Contributing Guide
 
-Please see the [contributing guide](https://github.com/exercism/x-api/blob/master/CONTRIBUTING.md#the-exercise-data)
+Please see the [contributing guide](https://github.com/exercism/x-common/blob/master/CONTRIBUTING.md)
 
 
